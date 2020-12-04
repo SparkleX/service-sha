@@ -1,0 +1,22 @@
+{
+	"name": "service-sha",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/start"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ip": "^1.1.5",
+		"koa": "^2.13.0",
+		"uuid": "^8.3.1"
+	},
+	"files": [
+		"/src",
+		"package.json",
+		"package-lock.json",
+		"README.md"
+	]
+}
